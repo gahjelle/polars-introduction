@@ -1,0 +1,6 @@
+great-tables
+ipython
+jupyterlab
+jupytext
+polars[all]
+requests
